@@ -1,6 +1,7 @@
 # Атол
 
 ## Замена ФН
+
 	1. Скачайте драйвер ККТ из [Центра загрузок Атол](https://fs.atol.ru/SitePages/Центр%20загрузки.aspx?utm_source=github.com&utm_medium=referral&utm_campaign=github.com&utm_referrer=github.com)
 	2. Откройте драйвер ККТ
 	3. Нажмите кнопку "Свойства"
