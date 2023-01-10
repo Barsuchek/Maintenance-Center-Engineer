@@ -9,7 +9,7 @@
 * [Штрих](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Shtrih.md)
 
 ## ОФД
-* [Продление ОФД](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/ExtensionOFD.txt)
+* [Продление ОФД](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/ExtensionOFD.md)
 
 ## Ремонт
 
