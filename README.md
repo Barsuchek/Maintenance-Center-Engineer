@@ -9,8 +9,10 @@
 * [Штрих](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Shtrih.md)
 
 ## ОФД
+* [Продление ОФД]()
 
 ## Ремонт
+
 
 ## Ссылки к драйверам
 * [Атол](https://fs.atol.ru/SitePages/Центр%20загрузки.aspx)
