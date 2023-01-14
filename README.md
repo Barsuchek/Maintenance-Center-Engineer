@@ -5,6 +5,7 @@
 
 ## ККТ
 * [Атол](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Atol.md)
+* [Атол Sigma](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Sigma.md)
 * [Эвотор](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Evotor.md)
 * [Штрих](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Shtrih.md)
 * [MsPOS](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/MsPOS.md)
