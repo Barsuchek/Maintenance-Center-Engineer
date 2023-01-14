@@ -19,3 +19,4 @@
 ## Ссылки к драйверам
 * [Атол](https://fs.atol.ru/SitePages/Центр%20загрузки.aspx)
 * [Штрих](https://www.shtrih-m.ru/support/download/?section_id=all&product_id=all&type_id=all&searchDownloads=Драйвер+ККТ)
+* [ККТ Терминал-ФА](https://kit-invest.ru/Drivers)
