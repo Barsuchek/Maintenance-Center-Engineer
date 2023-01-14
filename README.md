@@ -8,6 +8,8 @@
 * [Эвотор](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Evotor.md)
 * [Штрих](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Shtrih.md)
 * [MsPOS](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/MsPOS.md)
+* [Меркурий](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Merkuriy.md)
+* [aQsi](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/aQsi.md)
 * [ККТ Терминал-ФА](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/TerminalFA.md)
 
 ## ОФД
