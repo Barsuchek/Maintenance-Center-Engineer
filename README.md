@@ -8,6 +8,7 @@
 * [Эвотор](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Evotor.md)
 * [Штрих](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Shtrih.md)
 * [MsPOS](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/MsPOS.md)
+* [ККТ Терминал-ФА](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/TerminalFA.md)
 
 ## ОФД
 * [Продление ОФД](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/ExtensionOFD.md)
