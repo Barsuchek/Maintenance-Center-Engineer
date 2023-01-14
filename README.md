@@ -2,7 +2,7 @@
 
 ## Информация
 * [Порядок выполнения работ](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Information/Порядок%20выполнения%20работ.md)
-* [Вики](https://github.com/Barsuchek/Maintenance-Center-Engineer.wiki.git)
+* [Вики](https://github.com/Barsuchek/Maintenance-Center-Engineer/wiki)
 
 ## ККТ
 * [Атол](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Atol.md)
