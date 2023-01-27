@@ -1,4 +1,5 @@
 # Эвотор
+![Эвотор7.2](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Photo/KKT/Эвотор7.2.jpg)
 
 ## Замена ФН
 1. Проверьте дату и время на ККТ
