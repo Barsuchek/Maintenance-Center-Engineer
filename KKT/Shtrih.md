@@ -1,4 +1,5 @@
 # Штрих
+![Штрих](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Photo/KKT/Штрих.jpg)
 
 ## Замена ФН
 
