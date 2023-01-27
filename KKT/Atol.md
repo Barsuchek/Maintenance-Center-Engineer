@@ -1,4 +1,5 @@
 # Атол
+![Атол30ф](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Photo/KKT/Атол.jpg)
 
 ## Замена ФН
 1. Скачайте драйвер ККТ из [Центра загрузок Атол](https://fs.atol.ru/SitePages/Центр%20загрузки.aspx?utm_source=github.com&utm_medium=referral&utm_campaign=github.com&utm_referrer=github.com)
