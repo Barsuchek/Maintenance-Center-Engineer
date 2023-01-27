@@ -13,6 +13,7 @@
 
 +/- - Перемещение по меню
 
+![Меркурий115Ф](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Photo/KKT/Меркурий115Ф.png)
 
 ## Замена ФН
 1. Выключите и включите ККТ
