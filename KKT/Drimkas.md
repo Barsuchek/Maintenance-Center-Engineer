@@ -1,4 +1,5 @@
 # Дримкас вики мини
+![VikiMiniPrint](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Photo/KKT/VikiMiniPrint.jpeg)
 
 ## Замена ФН
 1. Авторизуйтесь в кассе с правами пользователя
