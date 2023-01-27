@@ -1,4 +1,5 @@
 # aQsi
+![aQsi5Ф](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Photo/KKT/aQsi.jpg)
 
 ## Замена ФН
 
