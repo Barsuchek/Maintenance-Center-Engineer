@@ -11,4 +11,4 @@
 
 
 ## Ссылки на литературу
-*[Подробная инструкция по замене ФН на кассах aQsi](https://aqsi.ru/support/zakryit-fiskalnyiy-nakopitel/)
+* [Подробная инструкция по замене ФН на кассах aQsi](https://aqsi.ru/support/zakryit-fiskalnyiy-nakopitel/)
