@@ -11,5 +11,5 @@
 
 
 ## Ссылки на литературу
-*[Подробная инструкция по замене ФН на кассах Элвес-МФ](https://tensor.ru/cto/zamena_fn_elves)
-*[Подробная инструкция по замене ФН на кассах Штрих](https://tensor.ru/cto/zamena_fn_shtrih)
+* [Подробная инструкция по замене ФН на кассах Элвес-МФ](https://tensor.ru/cto/zamena_fn_elves)
+* [Подробная инструкция по замене ФН на кассах Штрих](https://tensor.ru/cto/zamena_fn_shtrih)
