@@ -2,6 +2,7 @@
 
 ## Информация
 * [Порядок выполнения работ](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Information/Порядок%20выполнения%20работ.md)
+* [Проблемы с налоговой](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Information/Пролемы%20с%20налоговой.md)
 * [Вики](https://github.com/Barsuchek/Maintenance-Center-Engineer/wiki)
 
 ## ККТ
