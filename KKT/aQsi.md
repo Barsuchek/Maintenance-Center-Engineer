@@ -84,4 +84,4 @@
 
 ## Ссылки на литературу
 * [Подробная инструкция по замене ФН на кассах aQsi](https://aqsi.ru/support/zakryit-fiskalnyiy-nakopitel/)
-* [Подробная инструкция по регистрации ККТ aQsi](https://www.youtube.com/watch?v=i_S0M6B0WW0&t=234s)
+* [Подробная инструкция по регистрации ККТ aQsi](https://www.youtube.com/watch?v=i_S0M6B0WW0)
