@@ -18,7 +18,11 @@
 * [PayOnline-01-ФА](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/PayOnline01FA.md)
 
 ## ОФД
-* [Продление ОФД](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/ExtensionOFD.md)
+* [Эвотор ОФД(Платформа ОФД)](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/ЭвоторОФД.md)
+* [Петер-Сервис(OFD.ru)](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/Петер-Сервис.md)
+* [Контур ОФД](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/КонтурОФД.md)
+* [Taxcom](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/Taxcom.md)
+* [Первый ОФД](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/ПервыйОФД.md)
 
 ## Ремонт
 
