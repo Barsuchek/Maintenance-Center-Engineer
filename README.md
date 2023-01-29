@@ -20,6 +20,7 @@
 ## ОФД
 * [Эвотор ОФД(Платформа ОФД)](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/ЭвоторОФД.md)
 * [Петер-Сервис(OFD.ru)](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/Петер-Сервис.md)
+* [Яндекс ОФД](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/ЯндексОФД.md)
 * [Контур ОФД](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/КонтурОФД.md)
 * [Taxcom](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/Taxcom.md)
 * [Первый ОФД](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/ПервыйОФД.md)
