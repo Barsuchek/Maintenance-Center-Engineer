@@ -25,8 +25,8 @@
 * [Taxcom](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/Taxcom.md)
 * [Первый ОФД](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/OFD/ПервыйОФД.md)
 
-## Ремонт
-
+## Весы
+* [Штрих-Принт М15](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Ves/Shtrih-PrintM.md)
 
 ## Ссылки к драйверам
 * [Атол](https://fs.atol.ru/SitePages/Центр%20загрузки.aspx)
