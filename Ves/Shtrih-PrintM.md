@@ -34,4 +34,4 @@
 
 
 ## Ссылки на литературу
-* 
+* [Подробное решение проблемы "Снимите этикетку!"](https://b-kassa.ru/blog/vesy-shtrikh-print-perechen-oshibok/#snimiteetiketku)
