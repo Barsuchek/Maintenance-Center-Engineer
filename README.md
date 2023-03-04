@@ -29,7 +29,7 @@
 * [Штрих-Принт М15](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Ves/Shtrih-PrintM.md)
 
 ## Принтеры этикеток
-* [Атол ВР-21]()
+* [Атол ВР-21](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Print/AtolBP-21.md)
 
 ## Ссылки к драйверам
 * [Атол](https://fs.atol.ru/SitePages/Центр%20загрузки.aspx)
