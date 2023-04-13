@@ -1,5 +1,5 @@
 # Кассатка 1Ф
-![ККТТерминалФА](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Photo/KKT/ККТТерминалФА.png)
+![Кассатка 1Ф](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Photo/KKT/Кассатка-1Ф.jpg)
 
 ## Замена ФН
 1. Включите кассу и проверьте дату на ККТ
