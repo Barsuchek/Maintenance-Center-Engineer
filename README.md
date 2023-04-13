@@ -15,6 +15,7 @@
 * [aQsi](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/aQsi.md)
 * [Дримкас](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Drimkas.md)
 * [Нева](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Neva.md)
+* [Кассатка](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/Kassatka.md)
 * [ККТ Терминал-ФА](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/TerminalFA.md)
 * [PayOnline-01-ФА](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/KKT/PayOnline01FA.md)
 
