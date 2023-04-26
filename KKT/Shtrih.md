@@ -1,6 +1,8 @@
 # Штрих
 ![Штрих](https://github.com/Barsuchek/Maintenance-Center-Engineer/blob/main/Photo/KKT/Штрих.jpg)
 
+Внимание! Перед работой с ККТ Штрих, его желательно обновить до последней версии, иначе может появится множество проблем
+
 ## Замена ФН
 1. Скачайте драйвер ККТ из [Центра загрузок Штрих](https://www.shtrih-m.ru/support/download/?section_id=all&product_id=all&type_id=all&searchDownloads=Драйвер+ККТ)
 2. Откройте драйвер ККТ
