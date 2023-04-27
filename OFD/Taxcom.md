@@ -1,4 +1,4 @@
-t# Taxcom
+# Taxcom
 
 ## Продление ОФД
 1. Зайдите в личный кабинет [Taxcom ОФД](https://lk-ofd.taxcom.ru/)
